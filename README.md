@@ -1,19 +1,18 @@
-# Layane Henrique - Data Analysis Portfolio
+# Layane Henrique - Portfólio de análise de dados
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Bem-vindo(a)! Este repositório contém um site de portfólio de análise de dados, de uma página, hospedado no GitHub Pages.
 
-## About This Portfolio Template
+## Sobre este portfólio 
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+Este portfólio foi desenvolvido para demonstrar minhas habilidades em:
+- Coleta e tratamento de dados
+- Visualização de dados e storytelling
+- Transformação dados complexos em insights acionáveis
+- Criação de dashboards interativos e profissionais
 
-## 🚀 Projects
+<!--## 🚀 Projetos
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
+Em cada cartão, você encontrará os principais projetos que já foram desenvolvidos por mim.
 ### Project Title One
 *A brief description of your project, the tools used, and the key insights derived.*
 
@@ -21,19 +20,17 @@ This template is set up to showcase your best work. You can easily customize the
 *A brief description of your project, the tools used, and the key insights derived.*
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+*A brief description of your project, the tools used, and the key insights derived.* -->
 
 
-## 🛠️ Skills
+## 🛠️ Habilidades
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+- **Visualização de dados**: Power BI, Data Studio.
+- **Análise de dados**: SQL, Excel, Google Sheets.
+- **Tratamento de dados**: Power Query, Excel, Google Sheets.
+- **Ferramentas**: Inteligência artificial, como Claude AI, Gems, ChatGPT.
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
-
-## 💡 How to Use This Template
+<!--## 💡 How to Use This Template
 
 Creating your own portfolio from this template is a simple, four-step process.
 
@@ -56,6 +53,6 @@ Open the `index.html` file and begin personalizing it. The file contains helpful
 ### 4. Add Your Files
 - Upload your profile photo and project preview images to the `assets/images/` folder.
 - Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+- Create your favicon and add it to the root folder.-->
 
 Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
